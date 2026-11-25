@@ -1,0 +1,11 @@
+{
+  "title": "The Opening - 5s comedic snack spot",
+  "format": "single-shot comedic commercial (parody of luxury perfume ads)",
+  "target_style": "premium ad cinematography played absurdly straight for comedy, 35mm film look",
+  "beats": [
+    {"t": "0.0-1.5s", "shot": "office worker grips a chip bag, lit like a luxury fragrance hero", "camera": "slow push-in"},
+    {"t": "1.5-3.5s", "shot": "the bag opens with cinematic intensity, crumbs flying in golden backlight, slow motion", "camera": "push-in peaks"},
+    {"t": "3.5-5.0s", "shot": "colleagues turn in awe, dramatic hold", "camera": "settle"}
+  ],
+  "post": "none (straight model output, no grading or edits)"
+}
